@@ -5,6 +5,6 @@
 
 ## ライセンスについて
 
-このリポジトリはフォーク元のライセンスを継承してMITです。
+このリポジトリはクローン元のライセンスを継承してMITです。
 
 <https://github.com/FuroBath/ArtifacterImageGen>
